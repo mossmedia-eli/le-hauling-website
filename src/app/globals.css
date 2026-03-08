@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-merriweather);
+}
+
+@layer base {
+  body {
+    @apply bg-stone-50 text-gray-800 antialiased font-sans;
+  }
+}
+
+@utility text-balance {
+  text-wrap: balance;
+}
