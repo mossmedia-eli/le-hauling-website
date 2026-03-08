@@ -23,11 +23,11 @@ export function PreFooter() {
 
           <div className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start">
             <a 
-              href="tel:+19155550198"
+              href="tel:+19158015045"
               className="w-full sm:w-auto flex items-center justify-center gap-3 bg-white text-green-900 px-8 py-4 rounded-xl font-bold text-lg hover:bg-stone-50 transition-all shadow-xl hover:-translate-y-[2px] touch-manipulation min-h-[56px]"
             >
               <Phone className="w-5 h-5 fill-current" />
-              Call (915) 555-0198
+              Call 915-801-5045
             </a>
           </div>
         </div>
@@ -77,7 +77,7 @@ export function PreFooter() {
                     id="phone" 
                     required
                     className="w-full px-4 py-3 rounded-lg bg-stone-50 border border-stone-200 focus:outline-none focus:ring-2 focus:ring-green-600 focus:border-transparent transition-shadow text-stone-900"
-                    placeholder="(915) 555-0198"
+                    placeholder="915-801-5045"
                   />
                 </div>
 

@@ -7,9 +7,9 @@ export function Navigation() {
       <div className="bg-stone-900 text-stone-100 py-2 px-4 text-sm font-medium">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
           <div className="flex items-center gap-4">
-            <a href="tel:+19155550198" className="flex items-center gap-2 hover:text-white transition-colors">
+            <a href="tel:+19158015045" className="flex items-center gap-2 hover:text-white transition-colors">
               <Phone className="w-4 h-4" />
-              <span>(915) 555-0198</span>
+              <span>915-801-5045</span>
             </a>
             <div className="hidden md:flex items-center gap-2">
               <MapPin className="w-4 h-4" />
@@ -44,7 +44,7 @@ export function Navigation() {
           </nav>
 
           <a 
-            href="tel:+19155550198"
+            href="tel:+19158015045"
             className="hidden sm:flex items-center justify-center gap-2 bg-green-800 text-white px-6 py-3 rounded-xl font-semibold hover:bg-green-900 transition-all hover:-translate-y-[1px] shadow-md touch-manipulation min-h-[48px]"
           >
             <Phone className="w-5 h-5 fill-current" />

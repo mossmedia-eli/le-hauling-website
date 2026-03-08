@@ -36,13 +36,13 @@ export function Footer() {
         <div className="flex flex-col gap-4">
           <h3 className="font-serif font-bold text-xl text-white mb-2">Contact Us</h3>
           
-          <a href="tel:+19155550198" className="flex items-start gap-4 hover:bg-stone-800 p-2 rounded-lg transition-colors -ml-2 group">
+          <a href="tel:+19158015045" className="flex items-start gap-4 hover:bg-stone-800 p-2 rounded-lg transition-colors -ml-2 group">
             <div className="bg-stone-800 group-hover:bg-green-700 w-10 h-10 rounded-full flex items-center justify-center shrink-0 transition-colors">
               <Phone className="w-5 h-5 text-white" />
             </div>
             <div className="flex flex-col">
               <span className="text-sm text-stone-400">Call/Text Us</span>
-              <span className="text-white font-semibold text-lg">(915) 555-0198</span>
+              <span className="text-white font-semibold text-lg">915-801-5045</span>
             </div>
           </a>
 

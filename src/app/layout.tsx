@@ -30,7 +30,7 @@ export default function RootLayout({
     "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=1200",
     "@id": "https://lehaulingelpaso.demo/",
     "url": "https://lehaulingelpaso.demo/",
-    "telephone": "+19155550198",
+    "telephone": "+19158015045",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "124 Maple Street",

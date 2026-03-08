@@ -40,11 +40,11 @@ export function Hero() {
 
           <div className="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
             <a 
-              href="tel:+19155550198"
+              href="tel:+19158015045"
               className="w-full sm:w-auto flex items-center justify-center gap-3 bg-green-600 text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-green-500 transition-all hover:-translate-y-[2px] shadow-[0_8px_30px_rgb(22,163,74,0.2)] touch-manipulation min-h-[56px]"
             >
               <Phone className="w-5 h-5 fill-current" />
-              Call (915) 555-0198
+              Call 915-801-5045
             </a>
             
             <a 
